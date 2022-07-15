@@ -2,6 +2,18 @@
 
 A lib for compatible with sun.security.provider.SecureRandom.
 
+## Installation
+
+npm:
+```shell
+$ npm install --save sha1prng
+```
+
+or yarn:
+```shell
+$ yarn add sha1prng
+```
+
 ## Usage
 
 ```javascript
