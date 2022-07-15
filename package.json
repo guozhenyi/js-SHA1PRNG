@@ -7,5 +7,10 @@
   "files": [
     "src",
     "dist"
+  ],
+  "keywords": [
+    "SHA1",
+    "SHA1PRNG",
+    "SecureRandom"
   ]
 }
