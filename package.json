@@ -1,6 +1,6 @@
 {
   "name": "sha1prng",
-  "version": "0.1.0-beta",
+  "version": "0.1.0",
   "author": "gzy <gzyonline@hotmail.com>",
   "license": "MIT",
   "main": "src/index.js",
