@@ -1,6 +1,6 @@
 {
   "name": "sha1prng",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "gzy <gzyonline@hotmail.com>",
   "license": "MIT",
   "repository": "guozhenyi/js-sha1prng",
